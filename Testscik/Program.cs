@@ -29,6 +29,7 @@ while (true)
 
         case "2":
             Console.WriteLine("Wrzuć monete\n");
+            Console.WriteLine("Wrzuć monete w GROSZACH:");
             Decimal coin = Decimal.Parse(Console.ReadLine());
             compactCafe.AddMoney(coin);
             break;
