@@ -1,0 +1,15 @@
+D:\ProjectC#\Testscik\Testscik\bin\Debug\net6.0\Testscik.exe
+D:\ProjectC#\Testscik\Testscik\bin\Debug\net6.0\Testscik.deps.json
+D:\ProjectC#\Testscik\Testscik\bin\Debug\net6.0\Testscik.runtimeconfig.json
+D:\ProjectC#\Testscik\Testscik\bin\Debug\net6.0\Testscik.dll
+D:\ProjectC#\Testscik\Testscik\bin\Debug\net6.0\Testscik.pdb
+D:\ProjectC#\Testscik\Testscik\obj\Debug\net6.0\Testscik.csproj.AssemblyReference.cache
+D:\ProjectC#\Testscik\Testscik\obj\Debug\net6.0\Testscik.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectC#\Testscik\Testscik\obj\Debug\net6.0\Testscik.AssemblyInfoInputs.cache
+D:\ProjectC#\Testscik\Testscik\obj\Debug\net6.0\Testscik.AssemblyInfo.cs
+D:\ProjectC#\Testscik\Testscik\obj\Debug\net6.0\Testscik.csproj.CoreCompileInputs.cache
+D:\ProjectC#\Testscik\Testscik\obj\Debug\net6.0\Testscik.dll
+D:\ProjectC#\Testscik\Testscik\obj\Debug\net6.0\refint\Testscik.dll
+D:\ProjectC#\Testscik\Testscik\obj\Debug\net6.0\Testscik.pdb
+D:\ProjectC#\Testscik\Testscik\obj\Debug\net6.0\Testscik.genruntimeconfig.cache
+D:\ProjectC#\Testscik\Testscik\obj\Debug\net6.0\ref\Testscik.dll
